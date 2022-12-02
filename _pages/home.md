@@ -6,29 +6,33 @@ header:
   overlay_color: "#F7420A"
   # overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
-    - label: "<i class='fab fa-fw fa-github'></i> Mats3"
+    - label: "Mats<sup>3</sup>"
+      url: "https://mats3.io/"
+    - label: "<i class='fab fa-fw fa-github'></i>"
       url: "https://github.com/centiservice/mats3"
-    - label: "<i class='fab fa-fw fa-github'></i> MatsSocket"
+    - label: "MatsSocket"
+      url: "https://matssocket.io/"
+    - label: "<i class='fab fa-fw fa-github'></i>"
       url: "https://github.com/centiservice/matssocket"
     - label: "Maven Central"
       url: "https://mvnrepository.com/artifact/io.mats3"
 excerpt: >
-  Message-based Interservice Communication made easy!<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0"></a></small>
+  Centiservice - because a millionth is too small!<br />
+  <small>Mats<sup>3</sup> and MatsSocket</small>
 feature_row:
-  - title: "Message-Oriented RPC"
-    excerpt: "Code fully asynchronous message based architecture, but reason like blocking RPC."
-    url: "/docs/configuration/"
+  - title: "Mats<sup>3</sup>"
+    excerpt: "Java Message-based Interservice Communications made easy!"
+    url: "https://mats3.io/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - title: "Developer happiness"
-    excerpt: "Simple code, easy to understand with great introspection, painless debugging."
-    url: "/docs/layouts/"
+  - title: "MatsSocket"
+    excerpt: "Mats<sup>3</sup> over WebSocket to the client, bidirectional communications."
+    url: "https://matssocket.io"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - title: "Free to use, source on github"
     excerpt: "Noncompete licensed - PolyForm Perimeter."
-    url: "/docs/license/"
+    url: "/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---

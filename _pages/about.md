@@ -3,6 +3,12 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Centiservice is home to a few libraries worth considering if you use a multi-service architecture.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+The two main libraries hosted at [Centiservice github](https://github.com/centiservice) are Mats<sup>3</sup> and
+MatsSocket. There are dedicated sites for them, at [mats3.io](https://mats3.io/)
+and [matssocket.io](https://matssocket.io). Mats<sup>3</sup> also have a companion project called 
+[MatsBrokerMonitor](https://github.com/centiservice/matsbrokermonitor).
+
+For more about the author's philosophy around a multi-service architecture, one might want to
+read [System of Services](https://github.com/centiservice/mats3/blob/main/docs/developing/SystemOfServices.md).
