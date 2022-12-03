@@ -12,5 +12,5 @@ Licenses: [Mats<sup>3</sup>](https://github.com/centiservice/mats3/blob/main/LIC
 
 [Polyform Perimeter](https://polyformproject.org/licenses/perimeter/1.0.0/) is a noncompete license, which basically
 means that you can do whatever you want with the code, except using it to compete with the product. Thus, as long as you
-are not AWS, GCP or Azure, or any similar company providing services to the public, typically for a fee, you are in the
-clear. If you want to provide Mats or Mats-like features using Mats, we'll need to have a chat.
+are not AWS, GCP or Azure, or any similar company providing services to the public, typically for a fee, you should be
+in the clear. If you want to provide Mats or Mats-like features using Mats, we'll need to have a chat.
