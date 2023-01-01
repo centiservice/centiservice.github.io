@@ -2,12 +2,13 @@
 title: "Website for Centiservice, Mats3 and MatsSocket"
 date: 2022-08-07T12:10:41+02:00
 categories:
-- blog 
+  - blog 
 tags:
-- mats3
-- website
-
+  - mats3
+  - matssocket
+  - website
 ---
+
 Will try to get a small website about Mats3 and MatsSocket going, to provide information about the library.
 
 Using Github pages and Jekyll, with the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme.
